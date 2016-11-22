@@ -26,7 +26,7 @@ public class Escenario {
     
     
     public void GenerarTerrenoAreaPlanComun(){
-        
+        //Charlie pasao a pene
         Random rnd = new Random();
         int tipoDeTerreno;
         int alturaTierra;
